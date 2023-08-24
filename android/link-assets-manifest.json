@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Indie_Flower/IndieFlower-Regular.ttf",
+      "sha1": "dab8ff786dd1c6a3e8fa8a54d4d59cf9a703efe1"
+    },
+    {
+      "path": "assets/fonts/Indie_Flower/OFL.txt",
+      "sha1": "2638e9dc08fa1c1f7ab66262afc11b6999350652"
+    },
+    {
+      "path": "assets/fonts/Lobster/Lobster-Regular.ttf",
+      "sha1": "120c751cd7a77174037c2409ab883ef7efc5edbb"
+    },
+    {
+      "path": "assets/fonts/Pacifico/Pacifico-Regular.ttf",
+      "sha1": "baca1fca7fe74b61cb33aa0da48ec1a3a77bcf49"
+    }
+  ]
+}
